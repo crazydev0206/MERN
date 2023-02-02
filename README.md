@@ -160,10 +160,3 @@ React then will create a `build` directory with a production build of your app w
   
 
 [Back to Table of Contents](#table-of-contents)
-
-
-## Author
-
-Created by:
-
-- [Ryuichi Miyazaki](https://github.com/rmiyazaki6499)
